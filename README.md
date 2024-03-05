@@ -29,22 +29,27 @@ https://weather-app-ui-seven.vercel.app/
    
 2. cd weather-app
 3. cd frontend
+   ```bash
    npm install
 
-4. cd backend
+5. cd backend
+     ```bash
    npm install
    
-5. API_KEY=your_openweathermap_api_key
+7. API_KEY=your_openweathermap_api_key
  PORT=3001
 
-6. Start the server
+8. Start the server
 
  cd backend
-  node index.js
+    ```bash
+    
+    node index.js
 
 7. Start the client (in a separate terminal)
 cd frontend
-npm run dev
+   ```bash
+     npm run dev
 
 ## Screenshots
 
