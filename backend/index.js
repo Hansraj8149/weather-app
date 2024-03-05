@@ -13,6 +13,10 @@ const PORT = process.env.PORT || 3001;
 
 app.use(express.json()); 
 
+
+app.get('/', (req,res)=> {
+  res.send('welcome to weather-app-backend')
+})
 app.get('/weather', async (req, res) => {
   try {
     const { success } = locationSchema.safeParse(req.query);
