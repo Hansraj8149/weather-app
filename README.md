@@ -38,6 +38,7 @@ https://weather-app-ui-seven.vercel.app/
  PORT=3001
 
 6. Start the server
+
  cd backend
   node index.js
 
@@ -47,6 +48,7 @@ npm run dev
 
 ## Screenshots
 
-
+![FireShot Capture 053 - Vite + React - weather-app-ui-seven vercel app](https://github.com/Hansraj8149/weather-app/assets/91865531/47e31802-8377-4c44-93f8-b83976dc5d1f)
+![FireShot Capture 054 - Weather-app - localhost](https://github.com/Hansraj8149/weather-app/assets/91865531/6fe70af2-4a1f-4e89-8aa3-45f19b1824b0)
 
 
